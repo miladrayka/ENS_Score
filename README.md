@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Python-3.8)
+![](https://img.shields.io/badge/Python-3.8)
 # ENS-Score
 ENS-Score is machine learning-based scoring function, which applies a probabilistic approach to estimate protein-ligand binding affinity.
 
