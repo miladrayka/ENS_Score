@@ -22,8 +22,8 @@ ECIF-Score and RDKit feature generations codes are available at https://github.c
 
 HydraMap v1.0 software can be downloaded from http://www.siocccbg.ac.cn/software/hydramap. 
 
-HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF.
+HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF. (Require Python 3.7)
 
-3S Application is available at https://github.com/miladrayka/3s_application. 
+3S Application is available at https://github.com/miladrayka/3s_application. (Require Python 3.9) 
 
 Python codes of Shulga et al. paper are gathered at http://molmodel.com/hg/sf_fragment_correlation. 
