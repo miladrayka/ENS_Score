@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # ENS-Score
-ENS-Score is machine learning-based scoring function, which applies a probabilistic approach to estimate protein-ligand binding affinity.
+**ENS-Score** is machine learning-based scoring function, which applies a probabilistic approach to estimate protein-ligand binding affinity.
 
 # Contact
 Milad Rayka, milad.rayka@yahoo.com
@@ -22,8 +22,8 @@ ECIF-Score and RDKit feature generations codes are available at https://github.c
 
 HydraMap v1.0 software can be downloaded from http://www.siocccbg.ac.cn/software/hydramap. 
 
-HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF. (Require Python 3.7)
+HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF. (**Require Python 3.7**)
 
-3S Application is available at https://github.com/miladrayka/3s_application. (Require Python 3.9) 
+3S Application is available at https://github.com/miladrayka/3s_application. (**Require Python 3.9**) 
 
 Python codes of Shulga et al. paper are gathered at http://molmodel.com/hg/sf_fragment_correlation. 
