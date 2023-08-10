@@ -13,9 +13,14 @@ Reach out to authors to access the trained model.
 
 # Some Important Package
 
-The PDBbind dataset and CASF-2016 benchmark are available at https://www.pdbbind.org.cn. 
-ECIF-Score and RDKit feature generations codes are available at https://github.com/DIFACQUIM/ECIF. 
+The PDBbind dataset and CASF-2016 benchmark are available at https://www.pdbbind.org.cn.
+
+ECIF-Score and RDKit feature generations codes are available at https://github.com/DIFACQUIM/ECIF.
+
 HydraMap v1.0 software can be downloaded from http://www.siocccbg.ac.cn/software/hydramap. 
-HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF. 
+
+HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF.
+
 3S Application is available at https://github.com/ miladrayka/3s_application. 
+
 Python codes of Shulga et al. paper are gathered at http://molmodel.com/hg/sf_fragment_correlation. 
