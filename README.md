@@ -21,6 +21,6 @@ HydraMap v1.0 software can be downloaded from http://www.siocccbg.ac.cn/software
 
 HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/HydraMapSF.
 
-3S Application is available at https://github.com/ miladrayka/3s_application. 
+3S Application is available at https://github.com/miladrayka/3s_application. 
 
 Python codes of Shulga et al. paper are gathered at http://molmodel.com/hg/sf_fragment_correlation. 
