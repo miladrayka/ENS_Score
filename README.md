@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 # ENS-Score
 ENS-Score is machine learning-based scoring function, which applies a probabilistic approach to estimate protein-ligand binding affinity.
 
@@ -5,13 +6,13 @@ ENS-Score is machine learning-based scoring function, which applies a probabilis
 Milad Rayka, milad.rayka@yahoo.com
 
 # Citation
-Should be added
+Should be added.
 
 # Installation and Usage
 Needed information for installing is provided at *AllCodes.ipynb*. You can repeat all results of paper by using *AllCodes.ipynb*. Trained ENS-Score, because of its size, is not uploaded on GitHub.
 Reach out to authors to access the trained model.
 
-# Some Important Package
+# Some Important Packages
 
 The PDBbind dataset and CASF-2016 benchmark are available at https://www.pdbbind.org.cn.
 
