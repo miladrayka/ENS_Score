@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # ENS-Score
-**ENS-Score** is machine learning-based scoring function, which applies an ensemble-based approach to estimate confidence of predicted protein-ligand binding affinity values.
+**ENS-Score** is a machine learning-based scoring function that applies an ensemble-based approach to estimate the confidence of predicted protein-ligand binding affinity values.
 
 ![](https://github.com/miladrayka/ENS_Score/blob/main/Graphical%20Abstract.png)
 
@@ -13,14 +13,13 @@ Milad Rayka, milad.rayka@yahoo.com
 Should be added.
 
 # Installation and Usage
-Needed information for installing is provided at *AllCodes.ipynb*. You can repeat all results of paper by using *AllCodes.ipynb*. Trained ENS-Score, because of its size, is not uploaded on GitHub.
-Reach out to authors to access the trained model.
+The needed information for installation is provided at *AllCodes.ipynb*. You can repeat all results of the paper by using *AllCodes.ipyn*b. Trained **ENS-Score**, because of its size, is not uploaded on GitHub. Reach out to authors to access the trained model.
 
 # Some Important Packages
 
-The PDBbind dataset and CASF-2016 benchmark are available at https://www.pdbbind.org.cn.
+The PDBbind dataset and CASF 2016 benchmark are available at https://www.pdbbind.org.cn/.
 
-ECIF-Score and RDKit feature generations codes are available at https://github.com/DIFACQUIM/ECIF.
+ECIF-Score and RDKit feature generation codes are available at https://github.com/DIFACQUIM/ECIF.
 
 HydraMap v1.0 software can be downloaded from http://www.siocccbg.ac.cn/software/hydramap. 
 
