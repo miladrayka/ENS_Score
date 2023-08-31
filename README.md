@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # ENS-Score
-**ENS-Score** is machine learning-based scoring function, which applies a probabilistic approach to estimate protein-ligand binding affinity.
+**ENS-Score** is machine learning-based scoring function, which applies an ensemble-based approach to estimate confidence of predicted protein-ligand binding affinity values.
 
 ![](https://github.com/miladrayka/ENS_Score/blob/main/Graphical%20Abstract.png)
 
