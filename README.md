@@ -13,7 +13,7 @@ Milad Rayka, milad.rayka@yahoo.com
 Should be added.
 
 # Installation and Usage
-The needed information for installation is provided at *AllCodes.ipynb*. You can repeat all results of the paper by using *AllCodes.ipyn*b. Trained **ENS-Score**, because of its size, is not uploaded on GitHub. Reach out to authors to access the trained model.
+The needed information for installation is provided at *AllCodes.ipynb*. You can repeat all results of the paper by using *AllCodes.ipyn*b.
 
 # Some Important Packages
 
