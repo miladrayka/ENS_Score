@@ -10,7 +10,7 @@
 Milad Rayka, milad.rayka@yahoo.com
 
 # Citation
-Should be added.
+An ensemble-based approach to estimate confidence of predicted protein–ligand binding affinity values [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.202300292).
 
 # Installation and Usage
 The needed information for installation is provided at *AllCodes.ipynb*. You can repeat all results of the paper by using *AllCodes.ipyn*b.
